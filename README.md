@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=druva2804" alt="druva2804" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Booking App**
+- 🔭 I’m currently working on **Destination Hotel Booking App**
 
 - 🌱 I’m currently learning **ReactJs, Data Structure & Algorithm's**
 
