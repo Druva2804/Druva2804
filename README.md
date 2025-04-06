@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=druva2804&show_icons=true&locale=en&layout=compact" alt="druva2804" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=druva2804&" alt="druva2804" /></p>
