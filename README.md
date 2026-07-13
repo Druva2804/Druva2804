@@ -1,26 +1,118 @@
 <h1 align="center">Hi 👋, I'm Druva Kumar B</h1>
-<h3 align="center">A passionate Full Stack Developer & with passion on AIML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=druva2804&label=Profile%20views&color=0e75b6&style=flat" alt="druva2804" /> </p>
+<h3 align="center">
+Data Analytics Professional | Data Enthusiast 📊 | "Data is the New Oil" | Azure Data Engineering Learner
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=druva2804" alt="druva2804" /></a> </p>
-
-- 🔭 I’m currently working on **Destination Hotel Booking App**
-
-- 🌱 I’m currently learning **ReactJs, Data Structure & Algorithm's**
-
-- 📫 How to reach me **druva.bhagavatula04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhagavatuladruva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagavatuladruva height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/druva_b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="druva_b" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/user5356YE/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user5356YE/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=druva2804&label=Profile%20views&color=0e75b6&style=flat" alt="druva2804" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=druva2804&theme=algolia&margin-w=10&margin-h=10" alt="druva2804" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=druva2804&show_icons=true&locale=en&layout=compact" alt="druva2804" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=druva2804&" alt="druva2804" /></p>
+## 👨‍💻 About Me
+
+- 💼 Data Analytics Professional with experience in **SQL, Python, Power BI, Excel & Business Intelligence**
+- ☁️ Currently learning **Azure Data Engineering** (ADF, ADLS Gen2, Azure Synapse Analytics, Databricks & PySpark)
+- 📊 Data Enthusiast who believes **"Data is the New Oil."**
+- 🌱 Strengthening my **Data Structures & Algorithms**
+- 🚀 Building projects in **Azure, SQL & Python**
+- 📫 Reach me at **druva.bhagavatula04@gmail.com**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bhagavatuladruva/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://www.codechef.com/users/druva_b" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/user5356YE/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+</p>
+
+---
+
+## 📚 Libraries & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
+</p>
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+---
+
+## ☁️ Cloud & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,mysql,mongodb" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+- ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+---
+
+## 🎯 Current Focus
+
+- 🔹 Azure Data Factory (ADF)
+- 🔹 Azure Data Lake Storage Gen2
+- 🔹 Azure Synapse Analytics
+- 🔹 Databricks & PySpark
+- 🔹 SQL Performance Optimization
+- 🔹 End-to-End ETL Pipelines
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=druva2804&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=druva2804&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=druva2804&layout=compact&theme=tokyonight"/>
+</p>
