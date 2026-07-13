@@ -19,11 +19,9 @@ Data Analytics Professional | Data Enthusiast 📊 | "Data is the New Oil" | Azu
 ## 👨‍💻 About Me
 
 - 💼 Data Analytics Professional with experience in **SQL, Python, Power BI, Excel & Business Intelligence**
-- ☁️ Currently learning **Azure Data Engineering** (Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Databricks & PySpark)
 - 📊 Data Enthusiast who believes **"Data is the New Oil."**
 - 🌱 Strengthening my **Data Structures & Algorithms**
 - 🚀 Building end-to-end **Data Engineering & Analytics Projects**
-- 📫 Reach me at **druva.bhagavatula04@gmail.com**
 
 ---
 
