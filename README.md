@@ -19,10 +19,10 @@ Data Analytics Professional | Data Enthusiast 📊 | "Data is the New Oil" | Azu
 ## 👨‍💻 About Me
 
 - 💼 Data Analytics Professional with experience in **SQL, Python, Power BI, Excel & Business Intelligence**
-- ☁️ Currently learning **Azure Data Engineering** (ADF, ADLS Gen2, Azure Synapse Analytics, Databricks & PySpark)
+- ☁️ Currently learning **Azure Data Engineering** (Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Databricks & PySpark)
 - 📊 Data Enthusiast who believes **"Data is the New Oil."**
 - 🌱 Strengthening my **Data Structures & Algorithms**
-- 🚀 Building projects in **Azure, SQL & Python**
+- 🚀 Building end-to-end **Data Engineering & Analytics Projects**
 - 📫 Reach me at **druva.bhagavatula04@gmail.com**
 
 ---
@@ -48,16 +48,12 @@ Data Analytics Professional | Data Enthusiast 📊 | "Data is the New Oil" | Azu
 ## 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,mysql" />
 </p>
 
 ---
 
-## 📚 Libraries & Frameworks
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
-</p>
+## 📚 Libraries
 
 <p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" />
@@ -68,7 +64,7 @@ Data Analytics Professional | Data Enthusiast 📊 | "Data is the New Oil" | Azu
 ## ☁️ Cloud & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=azure,mongodb" />
 </p>
 
 ---
@@ -85,34 +81,14 @@ Data Analytics Professional | Data Enthusiast 📊 | "Data is the New Oil" | Azu
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 
 - ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
-- ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+- ✅ Microsoft Certified: Azure Data Fundamentals (DP-900)
+- ✅ Databricks Lakehouse Fundamentals
+- ✅ SQL Certification
+- ✅ Certified in Python for Data Analysis
+- 🟡 Microsoft Certified: Power BI Data Analyst Associate (PL-300) *(Ongoing)*
 
 ---
 
-## 🎯 Current Focus
-
-- 🔹 Azure Data Factory (ADF)
-- 🔹 Azure Data Lake Storage Gen2
-- 🔹 Azure Synapse Analytics
-- 🔹 Databricks & PySpark
-- 🔹 SQL Performance Optimization
-- 🔹 End-to-End ETL Pipelines
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=druva2804&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=druva2804&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=druva2804&layout=compact&theme=tokyonight"/>
-</p>
